@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bysloyzz&label=Profile%20views&color=0e75b6&style=flat" alt="bysloyzz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bysloyzz" alt="bysloyzz" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bysloyzz" alt="bysloyzz" /></a> </p>
+-->
 - 🔭 I’m currently working on **StrawPoll & Coodo.xyz**
 
 - 🌱 I’m currently learning **Back-End**

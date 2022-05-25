@@ -23,4 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bysloyzz&show_icons=true&locale=en&layout=compact" alt="bysloyzz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bysloyzz&show_icons=true&locale=en" alt="bysloyzz" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bysloyzz&" alt="bysloyzz" /></p>
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BySloyzZ)](https://github.com/anuraghazra/github-readme-stats)

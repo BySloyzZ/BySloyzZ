@@ -1,6 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BySloyzZ&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BySloyzZ)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A passionate beginner developer from France</h3>
 
@@ -28,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bysloyzz&show_icons=true&locale=en" alt="bysloyzz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bysloyzz&" alt="bysloyzz" /></p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BySloyzZ)](https://github.com/anuraghazra/github-readme-stats)

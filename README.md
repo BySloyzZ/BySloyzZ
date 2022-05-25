@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A passionate beginner developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bysloyzz&label=Profile%20views&color=0e75b6&style=flat" alt="bysloyzz" /> <img src="https://wakatime.com/badge/user/a1257b6e-4cdf-443b-bc78-c2c794a537fd/project/e80d4bc5-bb0d-45c1-97d4-04f1e2a4a47a.png"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bysloyzz&label=Profile%20views&color=0e75b6&style=flat" alt="bysloyzz" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bysloyzz" alt="bysloyzz" /></a> </p>
 -->
-- 🔭 I’m currently working on **StrawPoll & Coodo.xyz**
+- 🔭 I’m currently working on **StrawPoll & Coodo.xyz** <img src="https://wakatime.com/badge/user/a1257b6e-4cdf-443b-bc78-c2c794a537fd/project/e80d4bc5-bb0d-45c1-97d4-04f1e2a4a47a.png">
 
 - 🌱 I’m currently learning **Back-End**
 
